@@ -7,11 +7,6 @@
 7000 ate infinito reajuste de 20%
 */
 
-#define valor1 1999.99
-#define valor2 3999.99
-#define valor3 6999.99
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
